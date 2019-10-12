@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WaterSimulation", "WaterSimulation.vcxproj", "{95C82D3F-CBAA-4ABC-9271-6BF5C98687B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95C82D3F-CBAA-4ABC-9271-6BF5C98687B6}.Debug|x64.ActiveCfg = Debug|x64
+		{95C82D3F-CBAA-4ABC-9271-6BF5C98687B6}.Debug|x64.Build.0 = Debug|x64
+		{95C82D3F-CBAA-4ABC-9271-6BF5C98687B6}.Debug|x86.ActiveCfg = Debug|Win32
+		{95C82D3F-CBAA-4ABC-9271-6BF5C98687B6}.Debug|x86.Build.0 = Debug|Win32
+		{95C82D3F-CBAA-4ABC-9271-6BF5C98687B6}.Release|x64.ActiveCfg = Release|x64
+		{95C82D3F-CBAA-4ABC-9271-6BF5C98687B6}.Release|x64.Build.0 = Release|x64
+		{95C82D3F-CBAA-4ABC-9271-6BF5C98687B6}.Release|x86.ActiveCfg = Release|Win32
+		{95C82D3F-CBAA-4ABC-9271-6BF5C98687B6}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {682789DC-D2C7-4F03-A441-00FE5FF2EE89}
+	EndGlobalSection
+EndGlobal
